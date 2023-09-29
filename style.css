@@ -1,0 +1,35 @@
+header {
+    background-color: #0A22F4;
+    border: 3px solid blue;
+    padding-left: 200px;
+    padding-bottom: 300px;
+    padding-top: 30px;
+}
+ul {
+    list-style: none;
+    font-size: 50px;
+}
+a {
+    text-decoration: none;
+    color:aliceblue;
+}
+.skyapartament{
+    margin-left: 650px;
+}
+h1 {
+    margin-left: 650px ;
+}
+.samples{
+    margin-left: 700px;
+}
+p{
+    margin-left: 650px;
+    margin-right: 650px;
+}
+.buttoninfo{
+    padding-left: 200px;
+    margin-left: 1000px;
+    margin-right: 1000px;
+    color: aliceblue;
+    background-color: blue;
+}
